@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working on a travel app:gopiny.vercel.app/
+## 🔭 I’m currently working on a travel app: https://gopiny.vercel.app/
 ## 🌱 I’m currently learning Relational Databases
 ## 👯 I’m looking to collaborate on.....
 ## 🤔 I’m looking for help with System Design
