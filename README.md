@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ## 👯 I’m looking to collaborate on.....
 ## 🤔 I’m looking for help with System Design
 ## 💬 Ask me about Front-end Development
-## 📫 How to reach me: https://kevowino-dev.vercel.app/
+## 📫 How to reach me: kevowino2016@gmail.com
 ## 😄 Pronouns: He/Him
 ## ⚡ Fun fact: ...
