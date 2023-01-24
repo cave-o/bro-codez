@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 I’m currently working on a travel app:gopiny.vercel.app/
+## 🌱 I’m currently learning Relational Databases
+## 👯 I’m looking to collaborate on.....
+## 🤔 I’m looking for help with System Design
+## 💬 Ask me about Front-end Development
+## 📫 How to reach me: https://kevowino-dev.vercel.app/
+## 😄 Pronouns: He/Him
+## ⚡ Fun fact: ...
