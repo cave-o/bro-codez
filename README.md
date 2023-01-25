@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 ### 📫 How to reach me: kevowino2016@gmail.com
 ### 😄 Pronouns: He/Him
 ### ⚡ Fun fact: ...
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bro-codez&theme=dark)](https://git.io/streak-stats)
