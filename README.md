@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🔭 I’m currently working on a travel app: https://gopiny.vercel.app/
+# 🔭 I’m currently tinkering with code .........!
 ### 🌱 I’m currently learning Relational Databases
-### 👯 I’m looking to collaborate on.....
-### 🤔 I’m looking for help with System Design
-### 💬 Ask me about Front-end Development
 ### 📫 How to reach me: kevowino2016@gmail.com
-### 😄 Pronouns: He/Him
-### ⚡ Fun fact: ...
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bro-codez&theme=dark)](https://git.io/streak-stats)
