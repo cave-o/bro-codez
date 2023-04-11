@@ -1,23 +1,46 @@
-### Hi there 👋
-
-<!--
-**bro-codez/bro-codez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...gopiny.vercel.app/
-- 🌱 I’m currently learning ...Relational Databases
-- 👯 I’m looking to collaborate on.....
-- 🤔 I’m looking for help with System Design
-- 💬 Ask me about Front-end Development
-- 📫 How to reach me: https://kevowino-dev.vercel.app/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
-
-# 🔭 I’m currently tinkering with code .........!
-### 🌱 I’m currently learning Relational Databases
-### 📫 How to reach me: kevowino2016@gmail.com
+### Hi there 👋 I'm Kev
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student;Developer;Business+Scientist)](https://git.io/typing-svg)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bro-codez&theme=dark)](https://git.io/streak-stats)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+
+- 🎇 In the year 2021, I started my coding journey. I have tried to code a few times before but I never got serious until then.
+- 🔭 I am currently tinkering with code polishing my Python, HTML, SCSS/CSS and JavaScript I am also working on R and Shell scripts.
+- 🌱 I am currently learning SQL.
+- 💬 Ask me about Markdown, Python or JavaScript. I might be able to share with you my two cents.
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cave-o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6">
+
+</p>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/topics/django)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/topics/flask)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/topics/pandas)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/topics/scikit-learn)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/topics/javascript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/topics/typescript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/topics/react)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/topics/redux)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/topics/css)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/topics/scss)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/topics/html)
+
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/topics/r)
+[![Tidyverse](https://img.shields.io/badge/tidyverse-4E79A7?style=for-the-badge&logo=R&logoColor=white)](https://github.com/topics/tidyverse)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/topics/sql)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/topics/git)
+[![Bash/Shell](https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/topics/bash)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/topics/java)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/topics/csharp)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/topics/cpp)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/topics/docker)
+
+
+
+
