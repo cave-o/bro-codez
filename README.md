@@ -7,7 +7,7 @@
 </div>
 
 - 🎇 In the year 2021, I started my coding journey. I have tried to code a few times before but I never got serious until then.
-- 🔭 I am currently tinkering with code polishing my Python, HTML, SCSS/CSS and JavaScript I am also working on R and Shell scripts.
+- 🔭 I am currently tinkering with code, polishing my Python, HTML, SCSS/CSS and JavaScript. I am also working on R and Shell scripts.
 - 🌱 I am currently learning SQL.
 - 💬 Ask me about Markdown, Python or JavaScript. I might be able to share with you my two cents.
 
