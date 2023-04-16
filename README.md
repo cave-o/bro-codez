@@ -11,17 +11,6 @@
 - 🌱 I am currently learning SQL.
 - 💬 Ask me about Markdown, Python or JavaScript. I might be able to share with you my two cents.
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cave-o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6">
-
-</p>
-
-
-
-
-
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/topics/django)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/topics/flask)
