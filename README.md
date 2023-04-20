@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-- 🎇 circa 2021, I started my coding journey. I tried to code html a few times before but I never knew the beauty of js and python until then.
+
 - 🔭 I am currently tinkering with code, polishing my Python, HTML, SCSS/CSS and JavaScript. I am also working on R and Shell scripts.
 - 🌱 I am currently learning SQL.
 
