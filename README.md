@@ -4,10 +4,9 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-- 🎇 In the year 2021, I started my coding journey. I have tried to code a few times before but I never got serious until then.
+- 🎇 circa 2021, I started my coding journey. I tried to code html a few times before but I never knew the beauty of js and python until then.
 - 🔭 I am currently tinkering with code, polishing my Python, HTML, SCSS/CSS and JavaScript. I am also working on R and Shell scripts.
 - 🌱 I am currently learning SQL.
-- 💬 Ask me about Markdown, Python or JavaScript. I might be able to share with you my two cents.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/topics/django)
