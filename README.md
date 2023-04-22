@@ -5,8 +5,8 @@
 </div>
 
 
-- 🔭 I am currently tinkering with code, polishing my Python, HTML, SCSS/CSS and JavaScript. I am also working on R and Shell scripts.
-- 🌱 I am currently learning SQL.
+- 🔭 I am currently tinkering with code.
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/topics/django)
