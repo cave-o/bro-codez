@@ -6,6 +6,7 @@
 
 
 - 🔭 I am currently tinkering with code.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cave-o&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6">
 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
