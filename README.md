@@ -11,6 +11,9 @@
 <br></br>
 <div id="buttons" align="center">
   
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cave-o/jupyter-projects.git/HEAD)
+  
+  
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
   [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/topics/django)
   [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/topics/flask)
