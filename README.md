@@ -11,7 +11,7 @@
 <br></br>
 <div id="buttons" align="center">
   
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cave-o/jupyter-projects.git/HEAD)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cave-o/codespaces-jupyter.git/HEAD)
   
   
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
